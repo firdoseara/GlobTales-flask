@@ -66,8 +66,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-### Created with ❤️ by Zeeshan
-
 Let the world tell you its story — one tale at a time 🌍✨
 
 ```
